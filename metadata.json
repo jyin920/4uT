@@ -1,0 +1,8 @@
+{
+  "name": "Remix YouTube再生数推移ダッシュボード",
+  "description": "YouTube指定動画（ふぉ〜ゆ〜「BLOOM WORLD」MVなど）のリアルタイム再生数・時速推移・マイルストーン達成予測アナリティクスダッシュボード",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
